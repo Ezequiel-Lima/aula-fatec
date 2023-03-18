@@ -36,3 +36,20 @@ foreach (var veiculo in veiculos)
 {
     Console.WriteLine("Assentos: " + veiculo.NumeroAssentos + " Motor: " + veiculo.TemMotor);
 }
+
+// Tarefa do dia 02 de abril de 2023
+IList<Produto> produtos2 = new List<Produto>
+{
+    new Produto(random.Next(1, 5000), "Produto nº" + 1),
+    new Produto(random.Next(1, 5000), "Produto nº" + 2),
+    new Produto(random.Next(1, 5000), "Produto nº" + 3),
+    new Produto(random.Next(1, 5000), "Produto nº" + 4)
+};
+Venda venda = new Venda(clientes.FirstOrDefault(x => x.Nome == "João"), produtos2);
+
+Console.WriteLine($"\nId: {venda.Id}, Venda realizado por: {venda.Cliente.Nome}, em: {venda.Data.ToString("dd/MM/yyyy")}");
+
+foreach (var item in venda.Produtos)
+{
+    Console.WriteLine("Descrição: " + item.Descricao + " Valor: " + item.Valor);
+}
