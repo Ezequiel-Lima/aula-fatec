@@ -1,4 +1,4 @@
-﻿namespace Aula.Entities
+﻿namespace Tarefa1703.Entities
 {
     public class Produto
     {
@@ -9,8 +9,8 @@
             Descricao = descricao;
         }
 
-        public Guid Id { get; set; }
-        public decimal Valor { get; set; }
-        public string Descricao { get; set; }
+        public Guid Id { get; private set; }
+        public decimal Valor { get; private set; }
+        public string Descricao { get; private set; }
     }
 }

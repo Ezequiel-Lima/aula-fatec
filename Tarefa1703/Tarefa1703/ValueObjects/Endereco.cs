@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace Aula.ValueObjects
+﻿namespace Tarefa1703.ValueObjects
 {
     public class Endereco
     {
@@ -20,14 +18,5 @@ namespace Aula.ValueObjects
         public string Cep { get; private set; }
         public string Cidade { get; private set; }
         public string Estado { get; private set; }
-
-        public override string ToString()
-        {
-            StringBuilder stringBuilder = new StringBuilder();
-
-            stringBuilder.Append($"{Rua} {Numero} {Bairro} {Cep} {Cidade} {Estado}");
-
-            return stringBuilder.ToString();
-        }
     }
 }

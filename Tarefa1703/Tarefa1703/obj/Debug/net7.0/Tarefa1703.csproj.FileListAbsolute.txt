@@ -1,0 +1,15 @@
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\bin\Debug\net7.0\Tarefa1703.exe
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\bin\Debug\net7.0\Tarefa1703.deps.json
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\bin\Debug\net7.0\Tarefa1703.runtimeconfig.json
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\bin\Debug\net7.0\Tarefa1703.dll
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\bin\Debug\net7.0\Tarefa1703.pdb
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.csproj.AssemblyReference.cache
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.AssemblyInfoInputs.cache
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.AssemblyInfo.cs
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.csproj.CoreCompileInputs.cache
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.dll
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\refint\Tarefa1703.dll
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.pdb
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\Tarefa1703.genruntimeconfig.cache
+D:\CSharp\Fatec\Tarefa1703\Tarefa1703\obj\Debug\net7.0\ref\Tarefa1703.dll
